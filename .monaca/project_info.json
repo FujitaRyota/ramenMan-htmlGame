@@ -1,0 +1,18 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca",
+        "org.apache.cordova.splashscreen"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "6",
+    "cordova_version": "4.1",
+    "title-ja": "駆け抜けろ_らぁめん男",
+    "title-en": "",
+    "description-ja": "WebGame",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [
+        "chrome"
+    ],
+    "name": "generated-1435544574-55346212fd17345b5c425a1a"
+}
