@@ -406,7 +406,7 @@ window.onload = function() {
                         bord.x = 320;                   // ボードを右端に移動(出現)
                     }
                 } else if (Turbo == 1){
-                    human.frame = 1;
+                    human.frame = 4;
                     game_.fps = 64;                     // ゲームの進行スピードを設定
                     TurboTime = human.frame;
                     if (scroll % 1800 === 0) {          // 1800m走ると加速状態解除
@@ -688,7 +688,7 @@ window.onload = function() {
                         bord.x = 320;                   // ボードを右端に移動(出現)
                     }
                 } else if (Turbo == 1){
-                    human.frame = 1;
+                    human.frame = 4;
                     game_.fps = 64;                     // ゲームの進行スピードを設定
                     TurboTime = human.frame;
                     if (scroll % 1800 === 0) {          // 1800m走ると加速状態解除
@@ -977,7 +977,7 @@ window.onload = function() {
                         bord.x = 320;                   // ボードを右端に移動(出現)
                     }
                 } else if (Turbo == 1){
-                    human.frame = 1;
+                    human.frame = 4;
                     game_.fps = 64;                     // ゲームの進行スピードを設定
                     TurboTime = human.frame;
                     if (scroll % 1800 === 0) {          // 1800m走ると加速状態解除
